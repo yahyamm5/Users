@@ -1,0 +1,3 @@
+username: yahiamajdi2004
+password: MMw4NufTsKp9NDpv
+URI: mongodb+srv://yahiamajdi2004:MMw4NufTsKp9NDpv@users.pvmrho0.mongodb.net/?retryWrites=true&w=majority&appName=Users
